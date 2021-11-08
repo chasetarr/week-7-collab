@@ -19,6 +19,6 @@ plot(cars)
 
 And here is where I will work:
 ```{r Grace}
-
+4+2
 ```
 
