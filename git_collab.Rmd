@@ -13,7 +13,8 @@ Hi Grace! Hope your day is great!
 
 Hi Chase! Here's a code chunk where you can work:
 ```{r Chase}
-
+2 + 2
+plot(cars)
 ```
 
 And here is where I will work:
